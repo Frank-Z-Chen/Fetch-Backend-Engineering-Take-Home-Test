@@ -6,7 +6,7 @@ Python Version: 3.11.0
 Panda Version: 1.5.3
 
 ## How to run
-On windows:
+On Windows:
 
 $ pip install pandas
 
